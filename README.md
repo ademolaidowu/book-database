@@ -7,7 +7,13 @@
 ![GitHub forks](https://img.shields.io/github/forks/ademolaidowu/book-database?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ademolaidowu/book-database?style=social)
 
-<img src="img/book-database1.png" width="1000px" height="500px" />
+<table>
+  <tr>
+    <td><img src="img/book-database1.png"/></td>
+    <td><img src="img/book-database2.png"/></td>
+  </tr>
+</table>
+<br>
 
 <br>
 <p><b>A Book Database app for storing records of books in a library</b></p>
